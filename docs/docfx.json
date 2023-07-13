@@ -57,7 +57,7 @@
       "searchScope": [
         "NuGet"
       ],
-      "uhfHeaderId": []
+      "uhfHeaderId": "new-value"
     },
     "fileMetadata": {},
     "template": [],
