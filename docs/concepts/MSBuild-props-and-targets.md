@@ -1,6 +1,6 @@
 ---
 title: MSBuild props and targets in a package
-description: Describes MSBuild props and targets in NuGet packages
+description: my test description
 author: nkolev92
 ms.author: nikolev
 ms.date: 07/13/2022
